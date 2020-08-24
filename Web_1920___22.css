@@ -1,0 +1,312 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 22;
+	--web-view-id: Web_1920__22;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__22;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__22 {
+	position: absolute;
+	width: 600px;
+	height: 1036px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 22;
+	--web-view-id: Web_1920__22;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(214,214,214,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 572px;
+	height: 1px;
+	left: 14.5px;
+	top: 76.9px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_11_l {
+	fill: url(#Rectangle_11_l);
+}
+.Rectangle_11_l {
+	position: absolute;
+	overflow: visible;
+	width: 14px;
+	height: 1036px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_12_n {
+	fill: url(#Rectangle_12_n);
+}
+.Rectangle_12_n {
+	position: absolute;
+	overflow: visible;
+	width: 14px;
+	height: 1036px;
+	left: 586px;
+	top: 0px;
+}
+#Group_22x {
+	position: absolute;
+	width: 141px;
+	height: 29px;
+	left: 32px;
+	top: 24px;
+	overflow: visible;
+}
+#Thank_you_showing_interest_in_ {
+	left: 44px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 273px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+#Please_follow_our_5_step_guide {
+	left: 44px;
+	top: 198px;
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+#We_are_here_to_help_you_with_a {
+	left: 44px;
+	top: 385.8px;
+	position: absolute;
+	overflow: visible;
+	width: 480px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+#Welcome_to_FlytNow {
+	left: 137px;
+	top: 92.891px;
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(112,112,112,1);
+}
+#Group_2099 {
+	position: absolute;
+	width: 314.946px;
+	height: 63.809px;
+	left: 143px;
+	top: 258px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	fill: rgba(39,174,96,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 314.946px;
+	height: 63.809px;
+	left: 0px;
+	top: 0px;
+}
+#Start_free_trial {
+	left: 90.45px;
+	top: 19.683px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+}
+#unnamed {
+	position: absolute;
+	width: 416px;
+	height: 221px;
+	left: 93px;
+	top: 498.771px;
+	overflow: visible;
+}
+#Line_205 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_205 {
+	overflow: visible;
+	position: absolute;
+	width: 405.528px;
+	height: 1px;
+	left: 97.5px;
+	top: 702.046px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_4690 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(214,214,214,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4690 {
+	overflow: visible;
+	position: absolute;
+	width: 571.846px;
+	height: 1px;
+	left: 14.5px;
+	top: 976px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Copyright__2020_FlytBase_Inc_A {
+	left: 154px;
+	top: 991.973px;
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-size: 12px;
+	color: rgba(64,64,64,1);
+	letter-spacing: 0.1px;
+}
+#Group_383 {
+	position: absolute;
+	width: 120px;
+	height: 47.356px;
+	left: 450px;
+	top: 912px;
+	overflow: visible;
+}
+#Powered_by {
+	left: 67.571px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+#Group_382 {
+	position: absolute;
+	width: 120px;
+	height: 35.784px;
+	left: 0px;
+	top: 11.572px;
+	overflow: visible;
+}
+#jpft6yjrhauqndcriay1 {
+	position: absolute;
+	width: 35.714px;
+	height: 35.784px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 84.286px;
+	height: 28.572px;
+	left: 35.714px;
+	top: 4.285px;
+	overflow: visible;
+}
+#Regards_FlytBase_Team {
+	left: 32px;
+	top: 912px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+#Join_our_Forum__our_Facebook_g {
+	left: 44px;
+	top: 804px;
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
+#To_learn_more_about_our_produc {
+	left: 44px;
+	top: 744px;
+	position: absolute;
+	overflow: visible;
+	width: 511px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
